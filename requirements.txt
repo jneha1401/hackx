@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+aiohttp
+faster-whisper
+torch
+sentencepiece
+python-dotenv
+
